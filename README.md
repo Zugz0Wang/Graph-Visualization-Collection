@@ -8,7 +8,9 @@ The original Graph data comes from [Network Repository](https://networkrepositor
 
 ![3elt](./3elt/3elt.graph.png)
 
-![Airfoil](./Airfoil1/airfoil1.graph.png)
+![Airfoil1](./Airfoil1/airfoil1.graph.png)
+
+![Airfoil1Dual](./Airfoil1Dual/airfoil1_dual.graph.png)
 
 ![Jagmesh1](./Jagmesh1/Jagmesh1.graph.png)
 

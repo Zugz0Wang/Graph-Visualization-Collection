@@ -12,6 +12,8 @@ The original Graph data comes from [Network Repository](https://networkrepositor
 
 ![Airfoil1Dual](./Airfoil1Dual/airfoil1_dual.graph.png)
 
+![Diag](./Diag/diag.graph.png)
+
 ![Jagmesh1](./Jagmesh1/Jagmesh1.graph.png)
 
 ![Jagmesh2](./Jagmesh2/Jagmesh2.graph.png)

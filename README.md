@@ -1,6 +1,6 @@
 # Zhifeng's Graph Visualization Collection
 
-This collection stores the graphs I have visualized using Multi-level Force Directed Layout Algorithm with Barnes Hut Tree. The algorithm originally comes from Yifan Hu 's *Efficient and High Quality Force-Directed Graph Drawing*.
+This collection stores the graphs I have visualized using Multi-level Force Directed Layout Algorithm with Barnes Hut Tree. The algorithm originally comes from Yifan Hu 's _Efficient and High Quality Force-Directed Graph Drawing_.
 
 Some graph data is my original work, such as 1111 which is a graph representing a finger-tip game. The rest of the data come from [Network Repository](https://networkrepository.com/), [Spare Matrix Collection of TAMU](https://sparse.tamu.edu/), and [Matrix Market](https://math.nist.gov/).
 
@@ -10,9 +10,9 @@ Some graph data is my original work, such as 1111 which is a graph representing 
 
 ![3elt](./3elt/3elt.graph.png)
 
-![Airfoil1](./Airfoil1/airfoil1.graph.png)
+![Airfoil1](./Airfoil1/Airfoil1.graph.png)
 
-![Airfoil1Dual](./Airfoil1Dual/airfoil1_dual.graph.png)
+![Airfoil1Dual](./Airfoil1Dual/Airfoil1Dual.graph.png)
 
 ![Diag](./Diag/diag.graph.png)
 
